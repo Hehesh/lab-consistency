@@ -1,0 +1,3 @@
+services:
+  mysql:
+    command: --innodb-use-native-aio=0
